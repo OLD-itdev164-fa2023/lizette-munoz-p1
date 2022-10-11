@@ -23,6 +23,7 @@ const StyledLink = styled(Link)`
   &:hover {
     color:white;
   }
+ 
 `
 
 const Header = ({ siteTitle }) => (
